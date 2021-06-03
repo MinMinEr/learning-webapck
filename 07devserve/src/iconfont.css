@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1622099972917') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-youjian:before {
+  content: "\e631";
+}
+
+.icon-jiantou:before {
+  content: "\e634";
+}
+
+.icon-tianjia:before {
+  content: "\e639";
+}
+
+.icon-xiazai:before {
+  content: "\e63a";
+}
+
